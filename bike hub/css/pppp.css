@@ -32800,26 +32800,7 @@ span.wishlist_products_counter.top_wishlist-custom img {
     top: 0;
     right: 0
 }
-/* #abcd12{
 
-    
-} */
-
-/* .elementor-section{
-    background-color:  #e1ffff !important;
-
-}  */
-#dsdsds{
-
-    height: 10% !important; 
-}
-#asd13{
-    width: 5%;
-
-}
-#abc123{
-    width: 5%;
-}
 .footer-newsletter-arrow .no-padding {
     width: 100%
 }
@@ -65686,7 +65667,7 @@ h1.entry-title {
 
 .elementor-5 .elementor-element.elementor-element-8edcbce:not(.elementor-motion-effects-element-type-background),
 .elementor-5 .elementor-element.elementor-element-8edcbce>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: whitesmoke
+    background-color: #B0C4DE
 }
 
 .elementor-5 .elementor-element.elementor-element-8edcbce {
@@ -66610,12 +66591,14 @@ h1.entry-title {
     text-transform: capitalize;
     font-size: 17px;
     line-height: 26px;
-    font-weight: 400;
+    font-weight: 600;
+    /* width: 317px; */
     letter-spacing: 1.6px
 }
 
 .fashion-hub-form .footer-newsletter .wpcf7-text {
     font-weight: 400;
+    /* width: 317px; */
     letter-spacing: 0;
     text-transform: none;
     background-color: #f2f2f2;
@@ -67115,6 +67098,19 @@ h5 {
     letter-spacing: -.029rem;
     color: #2c2a2a
 }
+/* /// */
+#dsdsds{
+
+    height: 10% !important; 
+}
+#asd13{
+    width: 5%;
+
+}
+#abc123{
+    width: 5%;
+}
+/* /// */
 
 h6 {
     font-family: 'Poppins';
@@ -67134,7 +67130,7 @@ p {
     font-size: 1rem;
     line-height: 1.625rem !important;
     letter-spacing: -.01rem;
-    color: #666
+    /* color: orange; */
 }
 
 .comments-area .comment-form>p button[type=submit],
@@ -67493,10 +67489,6 @@ body>.scrollup svg {
 .elementor-15 .elementor-element.elementor-element-c078591 .rt-header.fixed .rt-mobile-toggle-holder .rt-mobile-toggle span {
     background: #000a12
 }
-/* #aqaq11{
-    width: 50% !important;
-    height: 50% !important;
-} */
 
 .elementor-15 .elementor-element.elementor-element-c078591 .apr-nav-menu--main .mega-menu>li>a,
 .elementor-15 .elementor-element.elementor-element-c078591 .rt-nav-sidebar-menu #desktop-menu .rt-mobile-menu>li>a {
@@ -69714,7 +69706,6 @@ h6.splitting[data-scroll=out] .char {
 .elementor-16 .elementor-element.elementor-element-86b8e75:not(.elementor-motion-effects-element-type-background),
 .elementor-16 .elementor-element.elementor-element-86b8e75>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-image: linear-gradient(to bottom right, #FF4500, orange);
-
 }
 
 .elementor-16 .elementor-element.elementor-element-86b8e75 {

@@ -8,17 +8,19 @@ function addToCart(serviceName, price, imageUrl) {
         // alert('This service is already added to your cart.');
         Swal.fire({
             icon: 'success',
-            title: 'Done',
-            text: "This service is already added to your cart",
+            title: 'success',
+            text: "Your product added successfully",
          });
     } else {
         cart.push(service);
 
-        localStorage.setItem('cart', JSON.stringify(cart));      Swal.fire({
-            icon: 'success',
-            title: 'success',
-            text: "Your product added successfully",
-         });
+        localStorage.setItem('cart', JSON.stringify(cart));
+        
+                     Swal.fire({
+                        icon: 'success',
+                        title: 'success',
+                        text: "Your product added successfully",
+                     });
         updateCartCounter();
     }
 }
